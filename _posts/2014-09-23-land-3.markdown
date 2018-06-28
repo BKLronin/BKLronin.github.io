@@ -1,0 +1,8 @@
+---
+layout: default
+img: d3-classic.jpg
+category: Land
+title: raise-d³ Demovideo zur Druckqualität
+description: |
+---
+Dieses Video soll die Druckqualität an verschiedenen Beispielen illustrieren. Die Buddha Statue eignet sich hervorragend um die darstellbaren Details an der Oberfläche und die Regelmäßigkeit der Schichten zu demonstrieren während der Orchideentopf die Performance an kleinen freistehenden Strukturen darstellt. [Youtube](https://youtu.be/c3wk292lUYc)

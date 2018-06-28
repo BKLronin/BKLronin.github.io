@@ -1,0 +1,36 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+
+title: raise-UAV
+email: info@raise-uav.com
+author: Thomas Herrmann
+description:  Home of Free Hardware focused on manufacturing with 3D-printers and Drone or UAV-Designs.
+  You can edit this line in _config.yml. It will appear in your document
+  head meta (for Google search results) and in your feed.xml site
+  description.
+copyright: 'Copyright &copy; 2018 raise-UAV. All Rights Reserved.'
+credits: 'Credits: Based on Landing Page <a href="https://startbootstrap.com/template-overviews/landing-page/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: none
+baseurl: ""
+url: "https://BKLronin.github.io"
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: instagram
+    url: https://instagram.com/BKLronin
+  - title: youtube
+    url: https://youtube.com/BKLronin
+  - title: thingiverse
+    url: https://thingiverse.com/kleingeist/designs

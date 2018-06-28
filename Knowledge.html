@@ -1,0 +1,85 @@
+---
+title: Knowledge
+subTitle: Hintergrundwissen zum Thema 3D-Druck und Bau und Umagang mit Drohnen
+---
+<!DOCTYPE html>
+<html>
+
+	{% include head.html %}
+
+	<body>
+
+		{% include header.html %}
+    <div class="container">
+      <div class="row">
+        <div class="block">
+    <div class="col-lg-12 col-sm-12 card animated"rechts>
+
+
+    <ul class="nav nav-tabs">
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">3D-Printing</a>
+      <div class="dropdown-menu">
+        <a class="dropdown-item page-scroll" href={% for post in site.faqs %}
+{% if post.categories contains "mycategory" %}
+ <li>{{ post.title }}</li>
+{% endif %}
+{% endfor %}>Einführung</a>
+        <a class="dropdown-item page-scroll" href="/contact">Technik</a>
+        <a class="dropdown-item page-scroll" href="/contact">Ideale Ergebnisse</a>
+        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" href="#">Separated link</a>
+      </div>
+    </li>
+
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Drones</a>
+      <div class="dropdown-menu">
+        <a class="dropdown-item" href="#">Action</a>
+        <a class="dropdown-item" href="#">Another action</a>
+        <a class="dropdown-item" href="#">Something else here</a>
+        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" href="#">Separated link</a>
+      </div>
+    </li>
+
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Filming</a>
+      <div class="dropdown-menu">
+        <a class="dropdown-item" href="#">Action</a>
+        <a class="dropdown-item" href="#">Another action</a>
+        <a class="dropdown-item" href="#">Something else here</a>
+        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" href="#">Separated link</a>
+      </div>
+    </li>
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Photogrammetry</a>
+      <div class="dropdown-menu">
+        <a class="dropdown-item" href="#">Action</a>
+        <a class="dropdown-item" href="#">Another action</a>
+        <a class="dropdown-item" href="#">Something else here</a>
+        <div class="dropdown-divider"></div>
+        <a class="dropdown-item" href="#">Separated link</a>
+      </div>
+    </li>
+  </ul>
+
+
+  <section-id>
+</div>
+</div>
+</div>
+</div>
+
+
+
+		{% include contact.html %}
+		{% include footer.html %}
+		{% include js.html %}
+
+
+
+
+	</body>
+</html>

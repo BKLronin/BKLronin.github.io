@@ -7,9 +7,7 @@ title: raise-UAV
 email: info@raise-uav.com
 author: Thomas Herrmann
 description:  Home of Free Hardware focused on manufacturing with 3D-printers and Drone or UAV-Designs.
-  You can edit this line in _config.yml. It will appear in your document
-  head meta (for Google search results) and in your feed.xml site
-  description.
+  
 copyright: 'Copyright &copy; 2018 raise-UAV. All Rights Reserved.'
 credits: 'Credits: Based on Landing Page <a href="https://startbootstrap.com/template-overviews/landing-page/">Start Bootstrap</a>.'
 

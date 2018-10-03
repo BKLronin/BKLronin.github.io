@@ -11,13 +11,13 @@ p{font-weight:400;font-size:14px;}
 h4{font-weight:600;font-size:22px;}
 li{font-weight:300;font-size:14px;}
 .lead{font-size:18px;font-weight:400;}
-.raise-UAV{padding-top:50px;padding-bottom:50px;text-align:center;color:#f8f8f8;background-size:auto;}
-.Hardware{padding-top:1000px;padding-bottom:50px;text-align:center;color:#f8f8f8;background:url(../img/hardware/hardware_green.jpg) no-repeat center center;background-size:auto;}
-.Knowledge{padding-top:50px;padding-bottom:50px;text-align:center;}
-.Alaxis{padding-top:1000px;padding-bottom:50px;text-align:center;background-color:#231F20;background:url(../img/hardware/front1.jpg) no-repeat center center;background-size:cover;}
-.HullK{padding-top:1000px;padding-bottom:50px;text-align:center;color:#f8f8f8;background:url(../img/hardware/hullkoceanfinal2clean.jpg) no-repeat center center;background-size:cover;}
-.Libelle{padding-top:1000px;padding-bottom:50px;text-align:center;color:#f8f8f8;background:url(../img/hardware/y6rend5.png) no-repeat center center;background-size:cover;}
-.Media{padding-top:1000px;padding-bottom:50px;text-align:center;color:#f8f8f8;background:url(../img/media/tori.jpg) no-repeat center center;background-size:cover;}
+.raise-UAV{padding-top:40px;padding-bottom:50px;text-align:center;color:#f8f8f8;}
+.Hardware{padding-top:40px;padding-bottom:50px;text-align:center;color:#f8f8f8;}
+.Knowledge{padding-top:40px;padding-bottom:50px;text-align:center;}
+.Alaxis{padding-top:40px;padding-bottom:50px;text-align:center;color:#f8f8f8}
+.HullK{padding-top:40px;padding-bottom:50px;text-align:center;color:#f8f8f8;}
+.Libelle{padding-top:40px;padding-bottom:50px;text-align:center;color:#f8f8f8;}
+.Media{padding-top:40px;padding-bottom:50px;text-align:center;color:#f8f8f8;}
 .intro-message{position:relative;padding-top:5%;padding-bottom:5%;}
 .intro-message > h1{margin:0;text-shadow:2px 2px 3px rgba(0,0,0,0.6);font-size:5em;}
 .intro-divider{width:400px;border-top:1px solid #f8f8f8;border-bottom:1px solid rgba(0,0,0,0.2);}
@@ -30,6 +30,8 @@ ul.intro-social-buttons > li:last-child{margin-bottom:0;}
 }
 .network-name{text-transform:uppercase;font-size:14px;font-weight:400;letter-spacing:2px;}
 .container{padding-top:10px;padding-bottom:10px;}
+.container-fluid{padding-left:0px;padding-right:0px;}
+.col-lg-12{padding-left:0px;padding-right:0px;}
 .card{box-shadow:0 5px 20px rgba(0,0,0,0.19), 0 3px 3px rgba(0,0,0,0.23);padding-top:20px;padding-right:20px;padding-bottom:30px;padding-left:20px;border-radius:5px;margin-bottom:10px;}
 .mbcgrd{background:url(../img/media/tori.jpg) no-repeat center center;background-size:cover;}
 .navbar{box-shadow:0 5px 20px rgba(0,0,0,0.19), 0 3px 3px rgba(0,0,0,0.23);padding-top:10px;padding-right:30px;padding-bottom:10px;padding-left:30px;}

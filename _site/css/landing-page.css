@@ -11,13 +11,13 @@ p{font-weight:400;font-size:14px;}
 h4{font-weight:600;font-size:22px;}
 li{font-weight:300;font-size:14px;}
 .lead{font-size:18px;font-weight:400;}
-.raise-UAV{padding-top:40px;padding-bottom:50px;text-align:center;color:#f8f8f8;}
-.Hardware{padding-top:40px;padding-bottom:50px;text-align:center;color:#f8f8f8;}
-.Knowledge{padding-top:40px;padding-bottom:50px;text-align:center;}
-.Alaxis{padding-top:40px;padding-bottom:50px;text-align:center;color:#f8f8f8}
-.HullK{padding-top:40px;padding-bottom:50px;text-align:center;color:#f8f8f8;}
-.Libelle{padding-top:40px;padding-bottom:50px;text-align:center;color:#f8f8f8;}
-.Media{padding-top:40px;padding-bottom:50px;text-align:center;color:#f8f8f8;}
+.raise-UAV{padding-top:42px;padding-bottom:50px;text-align:center;color:#f8f8f8;}
+.Hardware{padding-top:42px;padding-bottom:50px;text-align:center;color:#f8f8f8;}
+.Knowledge{padding-top:45px;padding-bottom:50px;text-align:center;}
+.Alaxis{padding-top:42px;padding-bottom:50px;text-align:center;color:#f8f8f8}
+.HullK{padding-top:42px;padding-bottom:50px;text-align:center;color:#f8f8f8;}
+.Libelle{padding-top:42px;padding-bottom:50px;text-align:center;color:#f8f8f8;}
+.Media{padding-top:42px;padding-bottom:50px;text-align:center;color:#f8f8f8;}
 .intro-message{position:relative;padding-top:5%;padding-bottom:5%;}
 .intro-message > h1{margin:0;text-shadow:2px 2px 3px rgba(0,0,0,0.6);font-size:5em;}
 .intro-divider{width:400px;border-top:1px solid #f8f8f8;border-bottom:1px solid rgba(0,0,0,0.2);}
@@ -36,7 +36,7 @@ ul.intro-social-buttons > li:last-child{margin-bottom:0;}
 .mbcgrd{background:url(../img/media/tori.jpg) no-repeat center center;background-size:cover;}
 .navbar{box-shadow:0 5px 20px rgba(0,0,0,0.19), 0 3px 3px rgba(0,0,0,0.23);padding-top:10px;padding-right:30px;padding-bottom:10px;padding-left:30px;}
 .row{padding-top:20px;padding-bottom:20px;}
-.content-section-a{padding:50px 0;margin-top:10px;margin-bottom:10px;}
+.content-section-a{padding:25px 0;margin-top:10px;margin-bottom:10px;}
 .section-heading{margin-bottom:30px;}
 .hr{border-top:5px solid #0082f0a6;color:#0082f0a6;color:#0082f0a6;}
 .section-heading-spacer{float:left;width:80px;border-top:3px solid #0082f0a6;color:#0082f0a6;}

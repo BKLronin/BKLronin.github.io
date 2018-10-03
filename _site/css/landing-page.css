@@ -57,7 +57,6 @@ li {
     padding-top: 1000px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
     text-align: center;
-    background-color: #f8f8f8;
     color: #f8f8f8;
     background: url(../img/hardware/hardware_green.jpg) no-repeat center center;
 
@@ -80,11 +79,7 @@ li {
   background-size: cover;
 
 }
-.Alaxis.body{
-  background-color: #231F20;
 
-
-}
 
 .HullK {
   padding-top: 1000px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */

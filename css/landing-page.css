@@ -1,16 +1,16 @@
-@font-face{font-family:'Open Sans', sans-serif;src:url("fonts/OpenSans-Regular.tff");}
+@font-face{font-family:'Open Sans', sans-serif;src:url("fonts/OpenSans.tff");}
 body,
 html{width:100%;height:100%;}
 body,
-h1,
-h2,
+h1{font-family:'Open Sans', sans-serif;font-weight:600;font-style:bold;}
+h2{font-family:'Open Sans', sans-serif;font-weight:600;font-style:bold;}
 h3,
 h5,
-h6{font-family:'Open Sans', sans-serif;font-weight:700;}
-p{font-weight:400;font-size:14px;}
-h4{font-weight:600;font-size:22px;}
+h6{font-family:'Open Sans', sans-serif;font-weight:400;}
+p{font-weight:400;font-size:14px;font-style:normal;}
+h4{font-weight:600;font-size:22px;font-style:normal;}
 li{font-weight:300;font-size:14px;}
-.lead{font-size:18px;font-weight:400;}
+.lead{font-size:16px;font-weight:300;font-style:normal;}
 .raise-UAV{padding-top:42px;padding-bottom:50px;text-align:center;color:#f8f8f8;}
 .Produkte{padding-top:42px;padding-bottom:50px;text-align:center;color:#f8f8f8;}
 .Alaxis{padding-top:42px;padding-bottom:50px;text-align:center;color:#f8f8f8;}

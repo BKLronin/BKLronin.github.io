@@ -34,7 +34,7 @@ ul.intro-social-buttons > li:last-child{margin-bottom:0;}
 .container{padding-top:10px;padding-bottom:10px;}
 .container-fluid{padding-left:0px;padding-right:0px;}
 .col-lg-12{padding-left:0px;padding-right:0px;}
-.card{box-shadow:0 5px 20px rgba(0,0,0,0.19), 0 3px 3px rgba(0,0,0,0.23);padding-top:20px;padding-right:20px;padding-bottom:30px;padding-left:20px;border-radius:5px;margin-bottom:10px;}
+.card{box-shadow:0 5px 20px rgba(0,0,0,0.19), 0 3px 3px rgba(0,0,0,0.23);padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;border-radius:5px;margin-bottom:10px;}
 .mbcgrd{background:url(../img/media/tori.jpg) no-repeat center center;background-size:cover;}
 .navbar{box-shadow:0 5px 20px rgba(0,0,0,0.19), 0 3px 3px rgba(0,0,0,0.23);padding-top:10px;padding-right:30px;padding-bottom:10px;padding-left:30px;}
 .row{padding-top:20px;padding-bottom:20px;}

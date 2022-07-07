@@ -1,8 +1,0 @@
----
-layout: default
-img: hullk1.png
-category: Land
-title: HullK Benchmarkdrucke zur Parameterfindung
-description: |
----
-  Unser HullK verlässt allmälich die erste Testphase und ist auf dem Weg zu den  brauchbaren Ergebnissen. Der Härtest, ein Full Scale Kajak wird der nächste große Meilenstein bevor dann die Komponenten finalisiert werden und einige Komfortfunktionen implementiert. Bis dahin gibt es erstmal Einblicke in die Testläufe. [Youtube](https://www.youtube.com/watch?v=5UdZTpv9Lok)

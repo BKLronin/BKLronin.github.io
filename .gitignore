@@ -105,3 +105,5 @@ $RECYCLE.BIN/
 *.lnk
 js/WebGL.js
 _site/
+/history
+

@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Jost-Regular';
+   font-display: swap;
+   src: url('Jost-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'Raleway-Regular';
+   font-display: swap;
+   src: url('Raleway-Regular/font.ttf');
+}
